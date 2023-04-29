@@ -11,6 +11,7 @@ import SupportIcon from './icons/IconSupport.vue'
   <WelcomeItem>
     <template #icon>
       <DocumentationIcon />
+      <h1>Diyorbek</h1>
     </template>
     <template #heading>Documentation</template>
 
